@@ -8,14 +8,9 @@ tags:
   - EE
 ---
 
-Why?
-==
+Full body tracking is cool. 
 
-Headings are cool
+Why? Better yet, what?
 ======
 
-You can have many headings
-======
 
-Aren't headings cool?
-------
