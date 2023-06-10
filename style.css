@@ -69,6 +69,7 @@ a:hover {
     min-height: 40px;
     background: #4b4542;
     border-radius: 25px;
+    box-shadow: 16px 16px #1b1b12;
     align-items: center;
 }
 
