@@ -55,7 +55,8 @@ a:hover {
 }
 
 #loading {
-    display: block;
+    display: flex;
+    margin: auto;
     width: 150px;
     height: 150px;
 }
